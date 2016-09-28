@@ -1,6 +1,6 @@
 #University at Buffalo - Geospatial Science resources
 
-[University Consortium for Geographic Information Science](http://www.ucgis.org/basic-page/organization-members) (founding member)<br>
+[University Consortium for Geographic Information Science](http://ucgis.org/member-organization/state-university-new-york-buffalo) (founding member)<br>
 [National Center for Geographic Information and Analysis](http://www.ncgia.buffalo.edu/)
 
 ## Departments (partial listing*)
