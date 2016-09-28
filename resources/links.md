@@ -14,12 +14,12 @@
   <tr>
     <td><a href="http://www.buffalo.edu/cas/geography.html">Geography</a></td>
     <td>College of Arts and Sciences</td>
-    <td><a href="http://www.buffalo.edu/cas/geography/faculty/faculty_directory.html">faculty</a></td>
+    <td><a href="http://www.ncgia.buffalo.edu/Subpages_FacultyList.html#Geography">faculty</a></td>
   </tr>
   <tr>
-    <td><a href="http://www.geology.buffalo.edu/">Geology</td>
+  <td><a href="http://www.geology.buffalo.edu/">Geology</a></td>
     <td></td>
-    <td><a href="">faculty</a></td>
+    <td><a href="http://www.ncgia.buffalo.edu/Subpages_FacultyList.html#Geology">faculty</a></td>
   </tr>
   <tr>
     <td><a href="http://www.buffalo.edu/cas/philosophy.html">Philosophy (geospatial ontology)</a></td>
@@ -30,7 +30,7 @@
   <tr>
     <td><a href="http://ap.buffalo.edu/academics/urban-regional-planning.html">Urban and Regional Planning</a></td>
     <td>School of Architecture and Planning</td>
-    <td><a href="http://ap.buffalo.edu/People/faculty/department-of-urban-and-regional-planning-faculty.html">faculty</a></td>
+    <td><a href="http://www.ncgia.buffalo.edu/Subpages_FacultyList.html#Urban">faculty</a></td>
   </tr>
   
 </table>
