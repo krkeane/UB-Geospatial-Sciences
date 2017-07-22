@@ -34,5 +34,5 @@
   </tr>
   
 </table>
-*[Thirty-five](http://www.ncgia.buffalo.edu/People.html) UB departments contribute to the National Center for Geographic Information and Analysis.
+* <a href="http://www.ncgia.buffalo.edu/People.html">Thirty-five</a> UB departments contribute to the National Center for Geographic Information and Analysis.
 
